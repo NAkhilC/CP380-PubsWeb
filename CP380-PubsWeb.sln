@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CP380-PubsWeb", "CP380-PubsWeb\CP380-PubsWeb.csproj", "{D4E9CA99-C5ED-461E-9DA2-350D7607C817}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CP380-PubsLab", "CP380-PubsLab\CP380-PubsLab\CP380-PubsLab.csproj", "{6EE69078-2169-4090-BBF8-1F7E3277D39C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4E9CA99-C5ED-461E-9DA2-350D7607C817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4E9CA99-C5ED-461E-9DA2-350D7607C817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4E9CA99-C5ED-461E-9DA2-350D7607C817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4E9CA99-C5ED-461E-9DA2-350D7607C817}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EE69078-2169-4090-BBF8-1F7E3277D39C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EE69078-2169-4090-BBF8-1F7E3277D39C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EE69078-2169-4090-BBF8-1F7E3277D39C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EE69078-2169-4090-BBF8-1F7E3277D39C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50F6AAC2-B2D7-4E67-8436-1462FD2823B9}
+	EndGlobalSection
+EndGlobal
